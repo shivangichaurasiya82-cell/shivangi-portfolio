@@ -134,6 +134,12 @@ export default function Hero() {
           >
             Get In Touch
           </a>
+          <ahref="/Shivangi_Chaurasiya_Resume.pdf"
+            download
+            className="px-8 py-3 bg-transparent border border-[#9BA8AB] hover:bg-[#9BA8AB] text-[#9BA8AB] hover:text-[#11212D] text-sm font-body font-medium rounded transition-all duration-300"
+          >
+            Download Resume
+          </a>
         </div>
 
         {/* Social Links */}
